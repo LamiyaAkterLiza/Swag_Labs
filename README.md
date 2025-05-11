@@ -18,14 +18,14 @@
 
 ## 📁 Test Case Breakdown
 
-### ✅ Test Case-01 | Locked_Out_User Login
+### ✅ Test-01 | Locked_Out_User Login
 - **User:** `locked_out_user`
 - **Goal:** Validate that a proper error message appears upon failed login.
 - **Expected Result:** Error message should explicitly state that the user is locked out.
 - **Validation:** Assert that the correct error message is displayed.
 
 
-### ✅ Test Case-02 | Standard_User_Purchase Flow
+### ✅ Test-02 | Standard_User_Purchase Flow
 - **User:** `standard_user`
 - **Scenario Overview:**
   1. Login
@@ -38,7 +38,7 @@
   8. Reset App State again and log out
 
 
-### ✅ Test Case-03 | Performance Glitch User with Filter
+### ✅ Test-03 | Performance Glitch User with Filter
 - **User:** `performance_glitch_user`
 - **Scenario Overview:**
   1. Login and reset App State
