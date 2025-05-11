@@ -54,7 +54,7 @@
 
 🚀 **MicrosoftEdge** - Browser_Name
 🧪 **WebdriverIO** – Test_framework
-🧠 **JavaScript (ES6)** – Scripting
+🧠 **JavaScript** – Scripting
 🧰 **Mocha** – Test runner
 📊 **Allure** – Report generation
 
