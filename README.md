@@ -2,11 +2,10 @@
 ---
 # 🧪 Web Automation Assessment – SauceDemo
 
--->This project is an automated testing suite for [SauceDemo](https://www.saucedemo.com/), developed using **WebdriverIO** and **JavaScript (Node.js)**. The suite demonstrates login validation, product sorting, purchase flow, and price verification.
+-->This project is an automated testing suite for [SauceDemo](https://www.saucedemo.com/),using **WebdriverIO** and **JavaScript (Node.js)**. The suite demonstrates login validation, product sorting, purchase flow, and price verification.
 
 -->All test cases are written in modular and maintainable format, making it easy to run them separately or together, and each run generates an Allure report for result analysis.
 
----
 
 ## 🧷 Project Objective
 
@@ -16,7 +15,6 @@
 - Cart management
 - Checkout and payment validation
 
----
 
 ## 📁 Test Case Breakdown
 
@@ -54,11 +52,11 @@
 
 ## 📦 Tech Stack
 
-- 🚀 **MicrosoftEdge** - Browser_Name
-- 🧪 **WebdriverIO** – Test_framework
-- 🧠 **JavaScript (ES6)** – Scripting
-- 🧰 **Mocha** – Test runner
-- 📊 **Allure** – Report generation
+🚀 **MicrosoftEdge** - Browser_Name
+🧪 **WebdriverIO** – Test_framework
+🧠 **JavaScript (ES6)** – Scripting
+🧰 **Mocha** – Test runner
+📊 **Allure** – Report generation
 
 
 ## 🚀 How to Run
